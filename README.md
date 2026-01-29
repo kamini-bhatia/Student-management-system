@@ -28,9 +28,14 @@ This project allows you to **add, view, search, and delete student information**
 ```python
 git clone https://github.com/kamini-bhatia/Student-management-system.git
 ```
+```
 cd Student-management-system
+```
+```
 python main.py
+```
+```
 Student-management-system/
 │
-├── main.py       # Main Python program
-├── README.md     # Project documentation
+├── project 1.ipynb       # Main Python program
+```
